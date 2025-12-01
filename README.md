@@ -8,7 +8,7 @@ This is a template for creating PaperMC plugins using the [Winter Framework](htt
 - **Services**: `me.mapacheee.template.service` (Business logic, config access)
 - **Commands**: `me.mapacheee.template.command` (Incendo Cloud commands)
 - **Listeners**: `me.mapacheee.template.listener` (Bukkit listeners)
-- 
+
 ## Getting Started
 
 1.  **Update Dependencies**: Check `build.gradle.kts` and update the `winterVersion` variable to the latest version of the Winter Framework.
