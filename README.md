@@ -11,7 +11,7 @@ This is a template for creating PaperMC plugins using the [Winter Framework](htt
 
 ## Getting Started
 
-1.  **Update Dependencies**: Check `build.gradle.kts` and update the `winterVersion` variable to the latest version of the Winter Framework.
+1.  **Update Dependencies**: Check `build.gradle.kts` and update plugin name.
 2.  **Rename Package**: Refactor the `me.mapacheee.template` package to your desired package name.
 3.  **Update plugin.yml**: Edit `src/main/resources/paper-plugin.yml` with your plugin name and description.
 
