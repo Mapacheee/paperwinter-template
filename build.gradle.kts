@@ -21,12 +21,8 @@ repositories {
 }
 
 dependencies {
-    api("com.thewinterframework:paper:1.0.4")
-    annotationProcessor("com.thewinterframework:paper:1.0.4")
-    api("com.thewinterframework:configuration:1.0.2")
-    annotationProcessor("com.thewinterframework:configuration:1.0.2")
-    api("com.thewinterframework:command:1.0.1")
-    annotationProcessor("com.thewinterframework:command:1.0.1")
+    compileOnlyApi("me.mapacheee:MapacheeeLib:1.0.0")
+    annotationProcessor("me.mapacheee:MapacheeeLib:1.0.0")
 
     compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
 }
